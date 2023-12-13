@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shervin Hakimi. I'm currently doing my MMath in Applied Mathematics at University of Waterloo.
-- 👀 I’m interested in computational biology, deep learning, robustness in machine learning and causal inference
-- 🌱 I’m currently learning on adversarial training and mechanistic modeling of the kidney to delay the onset of chronic kidney disease
--  I’m looking to collaborate on projects related to healthcare and more
+-  Hi, I’m Shervin Hakimi. I've finished my MMath in Applied Mathematics at the University of Waterloo.
+-  I’m interested in all things related to ML and building things. More specifically I'm interested in NLP, computational linguistics, computational biology, deep learning, and robustness in machine learning.
+-  I’m looking to collaborate on projects related to the subjects above
 <!---
 - 📫 How to reach me: shervin.hakimi@uwaterloo.ca
 --->
