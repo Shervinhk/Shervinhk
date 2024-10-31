@@ -8,8 +8,9 @@ I hold an MMath in Applied Mathematics from the University of Waterloo, a bachel
 
 I’m interested in all things related to **machine learning** and **building things**. More specifically, I'm passionate about:
 
-- **Natural Language Processing (NLP)**
 - **Computational Biology**
+- **Mathematical Modeling**
+- **Natural Language Processing (NLP)**
 - **Robustness in Machine Learning**
 
 I’m looking to collaborate on and am open to projects related to the subjects mentioned above.
