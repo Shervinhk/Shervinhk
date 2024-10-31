@@ -1,6 +1,8 @@
-# Hi, I'm Shervin.
+# Hi 👋
 
-I enjoy using mathematics and machine learning in real-world applications. I have training in both engineering and applied mathematics and have built projects and products in **healthcare**, **computational biology**, **finance**, and **media**. I hold an MMath in Applied Mathematics from the University of Waterloo, a bachelor's in Electrical Engineering from Sharif University of Technology focusing on control theory, and a minor in Mathematics.
+I enjoy using mathematics and machine learning in real world applications. 
+I have training in both engineering and applied mathematics and have built projects and products in **healthcare**, **computational biology**, **finance**, and **media**. 
+I hold an MMath in Applied Mathematics from the University of Waterloo, a bachelor's in Electrical Engineering from Sharif University of Technology focusing on control theory, and a minor in Mathematics.
 
 ## Interests
 
