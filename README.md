@@ -9,7 +9,7 @@ I hold an M.Math in Applied Mathematics from the University of Waterloo, where I
 
 I’ve applied the same analytical and engineering toolkit to projects in mental health, finance, and audience measurement.
 
----
+
 
 ## Interests
 
@@ -23,7 +23,6 @@ Current areas of focus include:
 
 I’m open to collaborations and projects related to these areas.
 
----
 
 ## Beyond Math and Technology
 
