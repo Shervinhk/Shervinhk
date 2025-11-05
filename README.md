@@ -1,4 +1,4 @@
-# Hi! I'm an applied mathematician and engineer working on modeling, ML, and data analysis across medicine, human behavior, computation and technology
+# Hi! I'm an applied mathematician and engineer working on mathematical modeling, ML, and data analysis across medicine, human behavior, computation and technology
 
 ## About Me
 
